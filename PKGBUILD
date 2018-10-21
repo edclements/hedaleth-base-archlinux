@@ -1,10 +1,10 @@
 # Maintainer: Ed Clements <ed.clements+arch@gmail.com>
 
-pkgname=hedalth-base
+pkgname=hedaleth-base
 pkgver=1
 pkgrel=1
 pkgdesc="Meta package"
-url="http://arch.hedalth.net"
+url="http://arch.hedaleth.net"
 license=('MIT')
 arch=('x86_64')
 depends=(
