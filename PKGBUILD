@@ -16,4 +16,6 @@ depends=(
   'unzip'
   'openssl'
   'pacman-contrib'
+  's3cmd'
+  'ntp'
 )
