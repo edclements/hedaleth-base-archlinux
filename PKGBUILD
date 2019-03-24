@@ -18,4 +18,5 @@ depends=(
   'pacman-contrib'
   's3cmd'
   'ntp'
+  'yajl' # json parser
 )
