@@ -17,6 +17,19 @@ depends=(
   'unzip'
   'openssl'
   'pacman-contrib'
+  'xorg-server'
+  'xorg-server-utils'
+  'xorg-apps'
+  'xorg-xinit' # startx
+  'xorg-xrandr' # manage multiple monitors
+  'xorg-xfontsel'
+  'ttf-droid'
+  'ttf-dejavu'
+  'ttf-bitstream-vera'
+  'profont'
+  'terminus-font'
+  'ttf-anonymous-pro'
+  'ttf-inconsolata'
   's3cmd'
   'ntp'
   'yajl' # json parser
