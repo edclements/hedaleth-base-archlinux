@@ -8,6 +8,7 @@ url="http://arch.hedaleth.net"
 license=('MIT')
 arch=('x86_64')
 depends=(
+  'base-devel'
   'git'
   'tmux'
   'gvim'
@@ -19,4 +20,20 @@ depends=(
   's3cmd'
   'ntp'
   'yajl' # json parser
+  'zathura' # document viewer
+  'zathura-pdf-mupdf'
+  'mlocate' # find files by name
+  'pacman-contrib' # contains updpkgsums
+  'net-tools' # contains ifconfig and netstat
+  'wmname' # sets window manager name
+  'alsa-utils' # contains alsamixer
+  'pulseaudio'
+  'pulseaudio-alsa'
+  'paprefs'
+  'pavucontrol'
+  'pcmanfm' # graphical file manager
+  'plantuml' # creates diagrams
+  'pandoc' # universal document converter
+  'vlc'
+  'chromium'
 )
