@@ -49,4 +49,5 @@ depends=(
   'pandoc' # universal document converter
   'vlc'
   'chromium'
+  'sxiv' # image viewer
 )
