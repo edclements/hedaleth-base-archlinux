@@ -30,6 +30,7 @@ depends=(
   'terminus-font'
   'ttf-anonymous-pro'
   'ttf-inconsolata'
+  'ttf-hack'
   's3cmd'
   'ntp'
   'yajl' # json parser
