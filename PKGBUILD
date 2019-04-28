@@ -51,4 +51,5 @@ depends=(
   'vlc'
   'chromium'
   'sxiv' # image viewer
+  'aws-cli' # command line interface for amazon web services
 )
