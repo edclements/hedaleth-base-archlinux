@@ -13,6 +13,7 @@ depends=(
   'tmux'
   'gvim'
   'vifm'
+  'ranger'
   'tree'
   'unzip'
   'openssl'
